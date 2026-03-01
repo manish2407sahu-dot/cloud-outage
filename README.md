@@ -1,3 +1,3 @@
-# cloud-outage.py
-My cloud outage project.py
+# cloud-outage
+My cloud outage project
 
